@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <windows.h>
 #include <time.h>
+#include <string>
 using namespace std;
 
 //....Funtion Prototypes....
